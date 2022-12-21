@@ -33,7 +33,7 @@
 body {
     margin: 0;
     color: #fff;
-    background: #af26aa;
+    background: #85120a;
     font: 300 14px/18px Roboto, sans-serif
 }
 a {
@@ -49,7 +49,7 @@ a:hover {
     overflow: hidden;
     position: relative;
     margin: 30px auto 0;
-    background: url('./assets/ana.jpg') center no-repeat #2c3e50;
+    background: url('./assets/itachi.png') center no-repeat #2c3e50;
     box-shadow: 0 17px 50px 0 rgba(0, 0, 0, .19), 0 12px 15px 0 rgba(0, 0, 0, .24)
 }
 .mhn-ui-wrap:before {
